@@ -4,6 +4,8 @@ A visually aesthetic and user-friendly task planner that helps you stay producti
 🔗 Live Demo https://daily-planner-eta.vercel.app/
 
 📌 Features
+
+
 ✅ Add new tasks with deadlines
 
 ⏰ Set due dates and times for each task
