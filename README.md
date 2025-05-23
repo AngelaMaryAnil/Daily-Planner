@@ -16,21 +16,3 @@ A visually aesthetic and user-friendly task planner that helps you stay producti
 
 🎨 Responsive and mobile-friendly design with a beautiful background
 
-🚀 Quick Start
-bash
-Copy
-Edit
-git clone https://github.com/your-username/Daily-Planner.git
-cd Daily-Planner
-open index.html   # or simply double-click to launch in your browser
-🛠 Tech Stack
-<div>
-<br>
-<br>
-<br>
-
-</div>
-📸 Preview
-<!-- Replace with your actual screenshot URL -->
-
-📄 License
