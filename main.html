@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily-planner</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="to_do">
+            <h1>Daily Planner!</h1>
+            <div class="image-container">
+                <img src="https://ecd-catalog-media.s3.us-west-2.amazonaws.com/Inspiration_Center_Media/How_to_Use_a_Daily_Planner/How_to_Use_a_Daily_Planner_-_How_to_organize_a_daily_planner.jpg" alt="Planner Image">
+            </div>
+            <div class="input-container">
+                <input type="text" id="taskInput" placeholder="Enter a new task">
+                <input type="datetime-local" id="dueDateTime">
+                <button onclick="addTask()">Add Task</button>
+            </div>
+            <div class="filter-container">
+                <button onclick="filterTasks('all')">All</button>
+                <button onclick="filterTasks('today')">Today</button>
+                <button onclick="filterTasks('upcoming')">Upcoming</button>
+                <button onclick="filterTasks('past')">Overdue</button>
+            </div>
+            <ul id="taskList"></ul>
+        </div>
+        <footer>
+            <p>&copy; <span id="currentYear"></span> Enhanced To-Do List App. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
