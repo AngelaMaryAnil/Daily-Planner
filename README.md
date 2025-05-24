@@ -22,7 +22,7 @@ A sleek, intuitive web application to organize your day, boost productivity, and
 ## 📸 Demo
 
 <!-- Add a link to a live demo or animated GIF if available -->
-[[Live Demo](#)](https://daily-planner-eta.vercel.app/) <!-- Replace with the actual link if deployed -->
+(https://daily-planner-eta.vercel.app/) <!-- Replace with the actual link if deployed -->
 
 ---
 
