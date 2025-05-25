@@ -1,78 +1,58 @@
-# 🗓️ Daily Planner
+# 📊 Daily Planner
 
-A sleek, intuitive web application to organize your day, boost productivity, and never miss a task again.
+A simple and intuitive web app to organize your daily tasks and manage your schedule efficiently.
+
+🌐 [Live Demo](https://daily-planner-eta.vercel.app/)
+
 ---
 
-## 🚀 Overview
-
-**Daily Planner** is a user-friendly web app built with JavaScript, CSS, and HTML, designed to help you manage your daily schedule efficiently. Add, edit, and track your tasks while enjoying a clean and responsive design that works seamlessly across devices.
+## 📸 Screenshot
+![Screenshot 2025-05-25 133206](https://github.com/user-attachments/assets/03b0f821-b9b1-467c-b40a-9d70d5e5aa27)
 
 ---
 
 ## ✨ Features
 
-- **Add & Edit Tasks:** Quickly add new tasks or update existing ones.
-- **Time-Block Scheduling:** Organize tasks by hour for focused productivity.
-- **Color-Coded Status:** Instantly see past, present, and upcoming tasks.
-- **Persistent Storage:** Your tasks are saved in local storage for easy access anytime.
-- **Responsive Design:** Enjoy a consistent experience on desktop and mobile.
+- ✅ Add, edit, and delete daily tasks
+- ✅ Mark tasks as complete or incomplete
+- 📱 Fully responsive design for both mobile and desktop
+- 🎨 Simple, clean, and user-friendly UI
+- 🔄 Seamless task management for your everyday needs
 
 ---
 
-## 📸 Demo
+## 🧱 Tech Stack
 
-<!-- Add a link to a live demo or animated GIF if available -->
-(https://daily-planner-eta.vercel.app/) <!-- Replace with the actual link if deployed -->
-
----
-
-## 🛠️ Technologies Used
-
-- **JavaScript** – App logic and interactivity
-- **HTML** – Structure and markup
-- **CSS** – Styling and responsive layout
+- **JavaScript**: The core language for building the app's functionality.
+- **HTML**: Provides the structure and layout of the app.
+- **CSS**: Used for styling and ensuring the app looks beautiful and responsive.
 
 ---
 
-## 📦 Getting Started
+## 🛠️ Getting Started
 
 ### Prerequisites
 
-- Modern web browser (Chrome, Firefox, Edge, etc.)
+Make sure you have **Git** installed on your machine. If not, you can download it from [here](https://git-scm.com/).
 
-### Installation
+### 1. Clone the Repository
+
+To get started, first clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/AngelaMaryAnil/Daily-Planner.git
+```
+
+2. Open the Project
+Navigate into the project directory:
+```bash
 cd Daily-Planner
 ```
 
-### Usage
-
-Simply open the `index.html` file in your browser:
-
-```bash
-open index.html
-```
-Or double-click the file in your file explorer.
-
----
-
-## 📝 Customization
-
-- Update styles in `style.css` to personalize the appearance.
-- Modify/add functionality in `script.js` as per your requirements.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements and new features.
+3. Open the main.html file<br>
+After you've cloned the repo, simply open the main.html file in your browser to start using the Daily Planner app.
 
 ---
 
 ## 📄 License
-
 This project is licensed under the [MIT License](LICENSE).
-
----
